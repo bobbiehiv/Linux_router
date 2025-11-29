@@ -1,5 +1,3 @@
 
+# Python script to use debain linux as a router with Firewalld and NetworkManager
 
-# python_scripts
-
-# repo of Python scripts 
